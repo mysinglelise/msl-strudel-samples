@@ -1,10 +1,6 @@
 {
-  "name": "My Strudel Sample Pack",
-  "description": "A set of custom samples for Strudel.",
-  "sampleMap": {
-    "magicfriend": ["magicfriend.wav"],
-    "themoonvocoder": ["themoonvocoder-3.wav"],
-    "silverfever": ["silverfever.wav"],
-    "glass": ["glass.wav"]
-  }
+  "magicfriend": "magicfriend.wav",
+  "themoonvocoder": "themoonvocoder-3.wav", 
+  "silverfever": "silverfever.wav",
+  "glass": "glass.wav"
 }
