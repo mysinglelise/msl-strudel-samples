@@ -1,0 +1,10 @@
+{
+  "name": "My Strudel Sample Pack",
+  "description": "A set of custom samples for Strudel.",
+  "samples": {
+    "wetake": ["WETAKE.wav"],
+    "themoonvocoder": ["THEMOONVOCODER -3.wav"],
+    "silverfever": ["SILVERFEVER.wav"],
+    "glassshatter": ["GLASSSHATTER.als.wav"]
+  }
+}
