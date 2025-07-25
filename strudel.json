@@ -2,9 +2,9 @@
   "name": "My Strudel Sample Pack",
   "description": "A set of custom samples for Strudel.",
   "samples": {
-    "wetake": ["wetake.wav"],
-    "themoonvocoder": ["themoonvocoder-3.wav"],
-    "silverfever": ["silverfever.wav"],
-    "glassshatter": ["glass.wav"]
+    "magicfriend": ["custom/magicfriend.wav"],
+    "themoonvocoder": ["custom/themoonvocoder-3.wav"],
+    "silverfever": ["custom/silverfever.wav"],
+    "glass": ["custom/glass.wav"]
   }
 }
