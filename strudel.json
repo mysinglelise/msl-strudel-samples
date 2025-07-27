@@ -1,6 +1,7 @@
 {
-  "magicfriend": "https://mysinglelise.github.io/msl-strudel-samples/magicfriend.wav",
-  "themoonvocoder": "https://mysinglelise.github.io/msl-strudel-samples/themoonvocoder-3.wav", 
-  "silverfever": "https://mysinglelise.github.io/msl-strudel-samples/silverfever.wav",
-  "glass": "https://mysinglelise.github.io/msl-strudel-samples/glass.wav"
+  "_base": "https://github.com/mysinglelise/msl-strudel-samples/raw/refs/heads/main/",
+  "magicfriend": "magicfriend.wav",
+  "themoonvocoder": "themoonvocoder-3.wav", 
+  "silverfever": "silverfever.wav",
+  "glass": "glass.wav"
 }
